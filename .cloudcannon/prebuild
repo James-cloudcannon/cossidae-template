@@ -1,0 +1,5 @@
+if [ -z "$HUGO_COSSIDAE_VERSION" ]; then
+    export HUGO_COSSIDAE_VERSION="Unversioned"
+fi
+echo "Building documentation for $HUGO_COSSIDAE_VERSION"
+cd npm i

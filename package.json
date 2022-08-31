@@ -1,0 +1,7 @@
+{
+  "name": "cossidae-template",
+  "private": true,
+  "dependencies": {
+    "alpinejs": "^3.10.3"
+  }
+}
